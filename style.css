@@ -1,0 +1,19 @@
+
+
+body {
+  background-image: url('logo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;}
+
+
+
+h1 {color: darkblue;text-align:center;font-size:400%;font-style: oblique; background-color: lightgrey;}
+
+
+h2 {color: black;text-align:center;font-size: 130%;}
+
+h3 {color: black;text-align:center;font-size: 130%;}
+
+h4 {color: black;text-align:center;font-size: 130%;}
+
